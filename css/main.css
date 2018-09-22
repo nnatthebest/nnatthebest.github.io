@@ -361,6 +361,9 @@ a {
   .brand {
     text-align: center;
   }
+  .nav-bar {
+    text-align: center;
+  }
   .header-title {
     margin-top: 80px;
   }
@@ -374,6 +377,15 @@ a {
   }
   .header-form {
     margin: 0;
+  }
+  .gallery {
+    text-align: center;
+  }
+  .gallery-under {
+    margin-top: 3rem;
+  }
+  .gallery-photos {
+    margin-left: 5rem;
   }
 }
 @media (max-width: 992px) {
