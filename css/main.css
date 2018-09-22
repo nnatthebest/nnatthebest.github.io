@@ -364,6 +364,9 @@ a {
   .nav-bar {
     text-align: center;
   }
+  .nav-bar-item {
+    margin-left: 20px;
+  }
   .header-title {
     margin-top: 80px;
   }
